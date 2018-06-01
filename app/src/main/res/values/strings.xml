@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MVPExample</string>
+    <string name="initalMsg">Abra ca dabra</string>
+    <string name="click">Button</string>
 </resources>
